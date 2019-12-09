@@ -1,0 +1,42 @@
+Vivado Simulator 2016.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2016.4/bin/unwrapped/win64.o/xelab.exe -wto a802d42935c44fd6b7d7eac0e42b0195 --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot RISCV_tb_behav xil_defaultlib.RISCV_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-278] actual bit length 3 differs from formal bit length 32 for port in2 [C:/Users/hadeelmabrouk/project_1_MS4/project_1_MS4.srcs/sources_1/new/RISCV.v:110]
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Users/hadeelmabrouk/project_1_MS4/project_1_MS4.srcs/sources_1/new/ImmGen.v" Line 3. Module rv32_ImmGen doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/hadeelmabrouk/project_1_MS4/project_1_MS4.srcs/sources_1/new/ALU.v" Line 1. Module prv32_ALU doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/hadeelmabrouk/project_1_MS4/project_1_MS4.srcs/sources_1/new/ImmGen.v" Line 3. Module rv32_ImmGen doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/hadeelmabrouk/project_1_MS4/project_1_MS4.srcs/sources_1/new/ALU.v" Line 1. Module prv32_ALU doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.MemoryCounter
+Compiling module xil_defaultlib.SingleMemory
+Compiling module xil_defaultlib.Mux2_1
+Compiling module xil_defaultlib.FlipFlop
+Compiling module xil_defaultlib.RegWLoad_default
+Compiling module xil_defaultlib.RegWLoad(SIZE=96)
+Compiling module xil_defaultlib.RegWLoad(SIZE=188)
+Compiling module xil_defaultlib.RegWLoad(SIZE=146)
+Compiling module xil_defaultlib.RegWLoad(SIZE=135)
+Compiling module xil_defaultlib.Mux2_1(N=32)
+Compiling module xil_defaultlib.MUX_4X1
+Compiling module xil_defaultlib.MUX_4x1_32Bits_default
+Compiling module xil_defaultlib.Full_Adder
+Compiling module xil_defaultlib.RippleAdder_default
+Compiling module xil_defaultlib.Decoder5_32
+Compiling module xil_defaultlib.RegFile_default
+Compiling module xil_defaultlib.rv32_ImmGen
+Compiling module xil_defaultlib.forward_unit
+Compiling module xil_defaultlib.Mux2_1(N=8)
+Compiling module xil_defaultlib.shifter
+Compiling module xil_defaultlib.prv32_ALU
+Compiling module xil_defaultlib.Control_Unit
+Compiling module xil_defaultlib.ALU_Control_Unit
+Compiling module xil_defaultlib.BranchCU
+Compiling module xil_defaultlib.RISCV
+Compiling module xil_defaultlib.RISCV_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot RISCV_tb_behav

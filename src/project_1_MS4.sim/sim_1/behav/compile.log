@@ -1,0 +1,43 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hadeelmabrouk/project_1_MS4/project_1_MS4.srcs/sources_1/new/Mux2_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mux2_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hadeelmabrouk/project_1_MS4/project_1_MS4.srcs/sources_1/new/FlipFlop.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FlipFlop
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hadeelmabrouk/project_1_MS4/project_1_MS4.srcs/sources_1/new/Full_Adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Full_Adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hadeelmabrouk/project_1_MS4/project_1_MS4.srcs/sources_1/new/shifter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shifter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hadeelmabrouk/project_1_MS4/project_1_MS4.srcs/sources_1/new/Decoder5_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Decoder5_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hadeelmabrouk/project_1_MS4/project_1_MS4.srcs/sources_1/new/RegWLoad.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegWLoad
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hadeelmabrouk/project_1_MS4/project_1_MS4.srcs/sources_1/new/MUX_4X1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX_4X1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hadeelmabrouk/project_1_MS4/project_1_MS4.srcs/sources_1/new/SingleMemory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SingleMemory
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hadeelmabrouk/project_1_MS4/project_1_MS4.srcs/sources_1/new/ControlUnit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Control_Unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hadeelmabrouk/project_1_MS4/project_1_MS4.srcs/sources_1/new/MUX_4x1_32Bits.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX_4x1_32Bits
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hadeelmabrouk/project_1_MS4/project_1_MS4.srcs/sources_1/new/ImmGen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rv32_ImmGen
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hadeelmabrouk/project_1_MS4/project_1_MS4.srcs/sources_1/new/BranchCU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BranchCU
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hadeelmabrouk/project_1_MS4/project_1_MS4.srcs/sources_1/new/RegFile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegFile
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hadeelmabrouk/project_1_MS4/project_1_MS4.srcs/sources_1/new/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module prv32_ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hadeelmabrouk/project_1_MS4/project_1_MS4.srcs/sources_1/new/MemoryCounter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MemoryCounter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hadeelmabrouk/project_1_MS4/project_1_MS4.srcs/sources_1/new/RippleAdder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RippleAdder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hadeelmabrouk/project_1_MS4/project_1_MS4.srcs/sources_1/new/forward_unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module forward_unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hadeelmabrouk/project_1_MS4/project_1_MS4.srcs/sources_1/new/ALUControl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Control_Unit
+WARNING: [VRFC 10-986] literal value truncated to fit in 4 bits [C:/Users/hadeelmabrouk/project_1_MS4/project_1_MS4.srcs/sources_1/new/ALUControl.v:34]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hadeelmabrouk/project_1_MS4/project_1_MS4.srcs/sources_1/new/RISCV.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RISCV
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hadeelmabrouk/project_1_MS4/project_1_MS4.srcs/sources_1/new/RISCV_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RISCV_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hadeelmabrouk/project_1_MS4/project_1_MS4.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
